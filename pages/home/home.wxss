@@ -1,0 +1,8 @@
+/* pages/home/home.wxss */
+.container3{
+  width: 760rpx
+}
+image{
+  width: 760rpx;
+  border: 1px solid black;
+}

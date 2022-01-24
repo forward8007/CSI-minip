@@ -1,0 +1,5 @@
+/* pages/renshi/renshi.wxss */
+.text1{
+  color: red;
+  font-family:'楷体';
+}

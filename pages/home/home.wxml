@@ -1,0 +1,11 @@
+<!--pages/home/home.wxml-->
+<view>
+
+  <text class="text1">
+  计算机课程关系图
+  
+  </text>
+
+  <image src="/images/gxt.jpg" mode="aspectFit" ></image>
+</view>
+

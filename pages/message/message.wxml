@@ -1,0 +1,16 @@
+<!--pages/message/message.wxml-->
+<text class="text2">
+计算机科学与技术专业各课程参考资料：
+（可复制后在浏览器打开）
+</text>
+<text selectable>
+https://www.bilibili.com/read/cv4790754
+
+https://zhuanlan.zhihu.com/p/26804195
+
+https://www.icourse163.org/search.htm?search=%E8%AE%A1%E7%AE%97%E6%9C%BA#/
+
+https://www.zhihuishu.com/portals_h5/2clearning.html#/courseSearch?keyword=%E8%AE%A1%E7%AE%97%E6%9C%BA
+
+https://github.com/itdevbooks/pdf
+</text>

@@ -1,0 +1,4 @@
+<!--pages/contact/contact.wxml-->
+<image src="/images/gh.png" mode="widthFix"></image>
+<view></view>
+<button type="primary" bindtap="goto">认识</button>
